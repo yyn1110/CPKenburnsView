@@ -102,8 +102,8 @@
 
 - (void)initParams
 {
-    self.startZoomRate = 1.2;
-    self.endZoomRate = 1.4;
+    self.startZoomRate = 0.7;
+    self.endZoomRate = 0.7;
     self.padding = UIEdgeInsetsMake(10, 10, 10, 10);
 }
 
